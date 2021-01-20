@@ -9,5 +9,7 @@ public class CourseDetails {
 		System.out.println(b);
 		String name = "Greens";
 		System.out.println(name);
+		long empMob=9876543210l;
+		System.out.println(empMob);
 	}
 }
