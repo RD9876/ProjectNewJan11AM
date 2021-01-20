@@ -5,6 +5,10 @@ public class CourseDetails {
 		System.out.println("Example");
 		int a=10;
 		System.out.println(a);
+		int b=20;
+		System.out.println(b);
+		String name = "Greens";
+		System.out.println(name);
 		long empMob=9876543210l;
 		System.out.println(empMob);
 	}
