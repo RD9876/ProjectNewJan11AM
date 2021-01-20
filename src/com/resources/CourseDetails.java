@@ -7,5 +7,7 @@ public class CourseDetails {
 		System.out.println(a);
 		int b=20;
 		System.out.println(b);
+		String name = "Greens";
+		System.out.println(name);
 	}
 }
