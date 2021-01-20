@@ -5,5 +5,7 @@ public class CourseDetails {
 		System.out.println("Example");
 		int a=10;
 		System.out.println(a);
+		long empMob=9876543210l;
+		System.out.println(empMob);
 	}
 }
